@@ -1,0 +1,11 @@
+Model Information:
+* title:	Sumiko
+* source:	https://sketchfab.com/3d-models/sumiko-e2d728e36e464cd38ed511902f951754
+* author:	Элона (https://sketchfab.com/Elona_4956)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Sumiko" (https://sketchfab.com/3d-models/sumiko-e2d728e36e464cd38ed511902f951754) by Элона (https://sketchfab.com/Elona_4956) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
